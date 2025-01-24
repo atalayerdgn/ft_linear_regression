@@ -1,4 +1,4 @@
-# Linear Regression
+# FT_LINEAR_REGRESSION
 
 This project implements a basic linear regression model to estimate the price of a car based on its mileage.
 
