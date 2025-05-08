@@ -49,18 +49,12 @@ python predict.py
 ```
 This loads the trained coefficients and prompts you to enter a mileage value to get a price estimate.
 
-## Requirements
-
-- Python 3.x
-- NumPy (for numerical operations)
-- Matplotlib (for visualization)
-
 ## Project Structure
 
 - `train.py`: Training program implementation
 - `predict.py`: Prediction program implementation
+- `modifier.py`: Utility for data modifications
 - `data.csv`: Dataset containing mileage and price information
-- `model.json`: Stores trained model coefficients
 
 ## Limitations
 
