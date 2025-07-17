@@ -1,4 +1,4 @@
-# Linear Regression Training
+# ft_linear_regression
 
 A Python implementation of linear regression using both analytical (Normal Equations) and iterative (Gradient Descent) methods for predicting car prices based on mileage.
 
