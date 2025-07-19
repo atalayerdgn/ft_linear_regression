@@ -15,7 +15,6 @@ class Predict:
             t0 = float(file.readline())
             t1 = float(file.readline())
         return t0 + (t1 * x)
-
 def main():
     print("For Exit press 0 or press 1")
     while True:
